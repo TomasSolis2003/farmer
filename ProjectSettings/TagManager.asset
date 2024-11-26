@@ -9,6 +9,7 @@ TagManager:
   - fardo
   - Fardo
   - StrawBale
+  - CashingArea
   layers:
   - Default
   - TransparentFX
