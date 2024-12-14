@@ -6,10 +6,20 @@ TagManager:
   tags:
   - Ground
   - trigo
-  - fardo
   - Fardo
-  - StrawBale
   - CashingArea
+  - "guada\xF1a"
+  - vehi_arador
+  - vehi_vendedor
+  - vehi_cosechador
+  - VehicleCamera
+  - fardo
+  - mercado
+  - arador
+  - tierra sin preparar
+  - tierra preparada
+  - ruedas
+  - Interact Point
   layers:
   - Default
   - TransparentFX
